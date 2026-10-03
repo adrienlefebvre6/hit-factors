@@ -1,0 +1,20 @@
+# Données : trop lourdes pour Git (le dataset Genius fait ~9 Go)
+data/raw/*
+data/interim/*
+data/processed/*
+!data/**/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets (clés Last.fm, Discogs, Kaggle…)
+.env
+kaggle.json
+
+# Système
+.DS_Store
