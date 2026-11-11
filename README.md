@@ -21,13 +21,13 @@ Topic  Count                    Name  \
 4  [girl, like, love, make, feel, baby, hot, want...   
 
 NMF:
-NMF topic  0: time, say, thing, think, tell, way, said, did, maybe, won, try, mind
-NMF topic  1: nigga, bitch, fuck, shit, ain, gon, money, as, fuckin, huh, lil, hoe
-NMF topic  2: love, heart, forever, true, need, fall, hold, arm, loving, kiss, way, hurt
-NMF topic  3: baby, come, need, babe, crazy, tell, night, right, ain, leave, make, long
-NMF topic  4: let, tonight, won, come, dance, hold, right, make, stop, ready, turn, time
-NMF topic  5: want, need, tell, really, stay, say, come, hold, make, think, somebody, body
-NMF topic  6: got, ain, man, little, good, boy, right, money, big, everybody, said, rock
-NMF topic  7: away, day, life, night, come, light, heart, eye, world, dream, sun, sky
-NMF topic  8: feel, make, way, feeling, right, good, inside, need, real, tonight, alive, alright
-NMF topic  9: girl, world, boy, make, pretty, good, tell, little, look, night, man, guy
+- NMF topic  0: time, say, thing, think, tell, way, said, did, maybe, won, try, mind
+- NMF topic  1: nigga, bitch, fuck, shit, ain, gon, money, as, fuckin, huh, lil, hoe
+- NMF topic  2: love, heart, forever, true, need, fall, hold, arm, loving, kiss, way, hurt
+- NMF topic  3: baby, come, need, babe, crazy, tell, night, right, ain, leave, make, long
+- NMF topic  4: let, tonight, won, come, dance, hold, right, make, stop, ready, turn, time
+- NMF topic  5: want, need, tell, really, stay, say, come, hold, make, think, somebody, body
+- NMF topic  6: got, ain, man, little, good, boy, right, money, big, everybody, said, rock
+- NMF topic  7: away, day, life, night, come, light, heart, eye, world, dream, sun, sky
+- NMF topic  8: feel, make, way, feeling, right, good, inside, need, real, tonight, alive, alright
+- NMF topic  9: girl, world, boy, make, pretty, good, tell, little, look, night, man, guy
